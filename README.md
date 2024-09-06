@@ -1,4 +1,9 @@
 ## Hi there 👋
+- 🎓 I'm a student pursuing a double degree in Computer Engineering and Business Administration.
+- 🔭 Enthusiast for continuous learning with a lot to demonstrate.
+- 🌱 I’m looking to collaborate on initiatives that drive innovation in technology.
+- 👀 Fun fact: In my free time, I enjoy playing the guitar.
+
 
 <!--
 **100475293/100475293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +17,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: In my free time, I enjoy playing the guitar.
 -->
