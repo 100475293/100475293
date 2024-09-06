@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Mario Salvador Camacho 👋
 - 🎓 I'm a student pursuing a double degree in Computer Engineering and Business Administration.
 - 🔭 Enthusiast for continuous learning with a lot to demonstrate.
 - 🌱 I’m looking to collaborate on initiatives that drive innovation in technology.
